@@ -1,0 +1,1637 @@
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 0
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 1
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 2
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 3
+"../../../Engine/Content/EngineSounds/Master.uasset" 4
+"../../../Engine/Content/EngineSounds/Master.uexp" 5
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 6
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 7
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 8
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 9
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 10
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 11
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 12
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 13
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 14
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 15
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 16
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 17
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 18
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 19
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 20
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 21
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 22
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 23
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 24
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 25
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 26
+"../../../Engine/Content/EngineResources/GradientTexture0.uexp" 27
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 28
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 29
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 30
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 31
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 32
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 33
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 34
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 35
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 36
+"../../../Engine/Content/EngineResources/Black.uasset" 37
+"../../../Engine/Content/EngineResources/Black.uexp" 38
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 39
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uexp" 40
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 41
+"../../../Engine/Content/EngineMeshes/Sphere.uexp" 42
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 43
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 44
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 45
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 46
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 47
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 48
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 49
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 50
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 51
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 52
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 53
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 54
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 55
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 56
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 57
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 58
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 59
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 60
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 61
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 62
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 63
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 64
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 65
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 66
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 67
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 68
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 69
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 70
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 71
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 72
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 73
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 74
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 75
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 76
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 77
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 78
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 79
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 80
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 81
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 82
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 83
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 84
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 85
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 86
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 87
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset" 88
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uexp" 89
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset" 90
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uexp" 91
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset" 92
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uexp" 93
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset" 94
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uexp" 95
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset" 96
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uexp" 97
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset" 98
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uexp" 99
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset" 100
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uexp" 101
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset" 102
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uexp" 103
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 104
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 105
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 106
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 107
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 108
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 109
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset" 110
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uexp" 111
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 112
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 113
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset" 114
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uexp" 115
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uasset" 116
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uexp" 117
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 118
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 119
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 120
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 121
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 122
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 123
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 124
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 125
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 126
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 127
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 128
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 129
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 130
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 131
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 132
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 133
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 134
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 135
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 136
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 137
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset" 138
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uexp" 139
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 140
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 141
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 142
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 143
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 144
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 145
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 146
+"../../../Engine/Content/EngineMaterials/BlueNoise.uexp" 147
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 148
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 149
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 150
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 151
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 152
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 153
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 154
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 155
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 156
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 157
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 158
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 159
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 160
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 161
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 162
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 163
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 164
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 165
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 166
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 167
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 168
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 169
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 170
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 171
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 172
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 173
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 174
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 175
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 176
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 177
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 178
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 179
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 180
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 181
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uasset" 182
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uexp" 183
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uasset" 184
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uexp" 185
+"../../../Engine/Content/EditorResources/S_TriggerBox.uasset" 186
+"../../../Engine/Content/EditorResources/S_TriggerBox.uexp" 187
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 188
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 189
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 190
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 191
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 192
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 193
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 194
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 195
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 196
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uasset" 197
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uexp" 198
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 199
+"../../../Engine/Content/EditorResources/S_Actor.ubulk" 200
+"../../../Engine/Content/EditorResources/S_Actor.uexp" 201
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 202
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 203
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 204
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 205
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 206
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 207
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 208
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 209
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 210
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 211
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 212
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uexp" 213
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 214
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uexp" 215
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 216
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 217
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 218
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 219
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 220
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 221
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 222
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 223
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 224
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 225
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 226
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 227
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 228
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 229
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 230
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 231
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 232
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 233
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 234
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 235
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 236
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 237
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uexp" 238
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 239
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uexp" 240
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 241
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uexp" 242
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 243
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 244
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 245
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 246
+"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset" 247
+"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uexp" 248
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 249
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 250
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 251
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 252
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 253
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 254
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 255
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uexp" 256
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 257
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uexp" 258
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 259
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uexp" 260
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 261
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uexp" 262
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 263
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uexp" 264
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 265
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uexp" 266
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 267
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uexp" 268
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 269
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uexp" 270
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 271
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp" 272
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 273
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp" 274
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 275
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp" 276
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 277
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 278
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 279
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 280
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 281
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 282
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 283
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 284
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 285
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 286
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 287
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 288
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 289
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 290
+"../../../Engine/Content/BasicShapes/Plane.uasset" 291
+"../../../Engine/Content/BasicShapes/Plane.uexp" 292
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 293
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 294
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 295
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 296
+"../../../Engine/Content/BasicShapes/Cube.uasset" 297
+"../../../Engine/Content/BasicShapes/Cube.uexp" 298
+"../../../Engine/Content/BasicShapes/Cone.uasset" 299
+"../../../Engine/Content/BasicShapes/Cone.uexp" 300
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 301
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 302
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 303
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 304
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 305
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 306
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 307
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 308
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 309
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 310
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 311
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 312
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 313
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uexp" 314
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 315
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 316
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 317
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 318
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 319
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 320
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 321
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 322
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 323
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 324
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 325
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 326
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 327
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 328
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 329
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 330
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 331
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 332
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 333
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 334
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 335
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 336
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 337
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 338
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 339
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 340
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 341
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 342
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 343
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 344
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 345
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 346
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset" 347
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uexp" 348
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset" 349
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uexp" 350
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 351
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uexp" 352
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset" 353
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uexp" 354
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset" 355
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uexp" 356
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset" 357
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uexp" 358
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset" 359
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uexp" 360
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset" 361
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uexp" 362
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset" 363
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uexp" 364
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset" 365
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uexp" 366
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset" 367
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uexp" 368
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset" 369
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uexp" 370
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset" 371
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uexp" 372
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset" 373
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uexp" 374
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 375
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uexp" 376
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset" 377
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uexp" 378
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset" 379
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uexp" 380
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset" 381
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uexp" 382
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset" 383
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uexp" 384
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset" 385
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uexp" 386
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset" 387
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uexp" 388
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset" 389
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uexp" 390
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset" 391
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uexp" 392
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset" 393
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uexp" 394
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset" 395
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uexp" 396
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset" 397
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uexp" 398
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset" 399
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uexp" 400
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset" 401
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uexp" 402
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset" 403
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uexp" 404
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset" 405
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uexp" 406
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset" 407
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uexp" 408
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset" 409
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uexp" 410
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset" 411
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uexp" 412
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset" 413
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uexp" 414
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset" 415
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uexp" 416
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset" 417
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uexp" 418
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset" 419
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uexp" 420
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset" 421
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uexp" 422
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset" 423
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uexp" 424
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset" 425
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uexp" 426
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset" 427
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uexp" 428
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset" 429
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uexp" 430
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset" 431
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uexp" 432
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset" 433
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uexp" 434
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uasset" 435
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uexp" 436
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset" 437
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uexp" 438
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset" 439
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uexp" 440
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset" 441
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uexp" 442
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset" 443
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uexp" 444
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset" 445
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uexp" 446
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset" 447
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uexp" 448
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset" 449
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uexp" 450
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset" 451
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uexp" 452
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset" 453
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uexp" 454
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset" 455
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uexp" 456
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset" 457
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uexp" 458
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 459
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uexp" 460
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 461
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 462
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 463
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 464
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 465
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 466
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 467
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 468
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 469
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 470
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 471
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 472
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 473
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 474
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 475
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 476
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 477
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 478
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 479
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 480
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 481
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 482
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 483
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 484
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 485
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 486
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 487
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 488
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 489
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 490
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 491
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 492
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 493
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 494
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 495
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset" 496
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uexp" 497
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uasset" 498
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uexp" 499
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uasset" 500
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uexp" 501
+"../../../Engine/Content/EngineMaterials/HairColorMap.uasset" 502
+"../../../Engine/Content/EngineMaterials/HairColorMap.uexp" 503
+"../../../Engine/Content/EngineMaterials/HairDebugColor.uasset" 504
+"../../../Engine/Content/EngineMaterials/HairDebugColor.uexp" 505
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uasset" 506
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uexp" 507
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset" 508
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uexp" 509
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/ART_SHAMANPLACEHOLDER_01.uasset" 510
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/ART_SHAMANPLACEHOLDER_01.uexp" 511
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/ART_ARCHERPLACEHOLDER_01.uasset" 512
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/ART_ARCHERPLACEHOLDER_01.uexp" 513
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/timeMcGuffinPlayerUI_inactive_.uasset" 514
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/timeMcGuffinPlayerUI_inactive_.uexp" 515
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/ART_KNIGHTPLACEHOLDER_01.uasset" 516
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/ART_KNIGHTPLACEHOLDER_01.uexp" 517
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/WBP_PlayerStatus.uasset" 518
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/WBP_PlayerStatus.uexp" 519
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 520
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 521
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/EP_Materials/MAT_TempProjectile.uasset" 522
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/EP_Materials/MAT_TempProjectile.uexp" 523
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/BP_Projectile.uasset" 524
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/BP_Projectile.uexp" 525
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/knightPlaceHolder.uasset" 526
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/knightPlaceHolder.uexp" 527
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/stormCallerPlaceHolder.uasset" 528
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/stormCallerPlaceHolder.uexp" 529
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/archerPlaceHolder.uasset" 530
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/archerPlaceHolder.uexp" 531
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/WBP_CharacterSelect.uasset" 532
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/WBP_CharacterSelect.uexp" 533
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 534
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 535
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/BP_InputReceiver.uasset" 536
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/BP_InputReceiver.uexp" 537
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/BPI_GameMode.uasset" 538
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/BPI_GameMode.uexp" 539
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 540
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uexp" 541
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 542
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Animations/ThirdPersonWalk.uexp" 543
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Animations/ThirdPersonRun.uasset" 544
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Animations/ThirdPersonRun.uexp" 545
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 546
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Animations/ThirdPersonIdle.uexp" 547
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 548
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uexp" 549
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 550
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Animations/ThirdPerson_Jump.uexp" 551
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 552
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Animations/ThirdPersonJump_Start.uexp" 553
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 554
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Animations/ThirdPersonJump_Loop.uexp" 555
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 556
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Animations/ThirdPerson_AnimBP.uexp" 557
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 558
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uexp" 559
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 560
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uexp" 561
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/VFX_/VFX_Decal/VFX_Decal_LinearSkill.uasset" 562
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/VFX_/VFX_Decal/VFX_Decal_LinearSkill.uexp" 563
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/VFX_/VFX_Decal/VFX_Actor_LinearSkill.uasset" 564
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/VFX_/VFX_Decal/VFX_Actor_LinearSkill.uexp" 565
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/WBP_PlayerHUD.uasset" 566
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/WBP_PlayerHUD.uexp" 567
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 568
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 569
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 570
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Textures/T_Male_Mask.ubulk" 571
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Textures/T_Male_Mask.uexp" 572
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 573
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 574
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 575
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 576
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 577
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 578
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 579
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 580
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 581
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 582
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 583
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.ubulk" 584
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uexp" 585
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 586
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 587
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 588
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 589
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 590
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 591
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 592
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 593
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 594
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 595
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 596
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 597
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 598
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 599
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Textures/T_Male_N.uasset" 600
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Textures/T_Male_N.ubulk" 601
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Textures/T_Male_N.uexp" 602
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/M_Male_Body.uasset" 603
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/M_Male_Body.uexp" 604
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 605
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Textures/T_UE4Logo_N.ubulk" 606
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Textures/T_UE4Logo_N.uexp" 607
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 608
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uexp" 609
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 610
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uexp" 611
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 612
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Mesh/SK_Mannequin.uexp" 613
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/BP_Player.uasset" 614
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/BP_Player.uexp" 615
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/WBP_Menu.uasset" 616
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/WBP_Menu.uexp" 617
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/laserTagFloor.uasset" 618
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/laserTagFloor.uexp" 619
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/EPOC_LOGO.uasset" 620
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/EPOC_LOGO.uexp" 621
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/WBP_MainMenu.uasset" 622
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/WBP_MainMenu.uexp" 623
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 624
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 625
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/BP_Camera.uasset" 626
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/BP_Camera.uexp" 627
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/BP_EPOCGameMode.uasset" 628
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/BP_EPOCGameMode.uexp" 629
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/neoWaxBloom_Cover_.uasset" 630
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/neoWaxBloom_Cover_.uexp" 631
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/mapOfTheSoul7Cover.uasset" 632
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/mapOfTheSoul7Cover.uexp" 633
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/goodkidMAADCity_Cover_.uasset" 634
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/UI/PRGM_PLACEHOLDERIMAGES/goodkidMAADCity_Cover_.uexp" 635
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Maps/ThirdPersonExampleMap_BuiltData.uasset" 636
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Maps/ThirdPersonExampleMap_BuiltData.ubulk" 637
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Maps/ThirdPersonExampleMap_BuiltData.uexp" 638
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 639
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uexp" 640
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 641
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uexp" 642
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 643
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uexp" 644
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uasset" 645
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uexp" 646
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 647
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uexp" 648
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 649
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uexp" 650
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 651
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uexp" 652
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uasset" 653
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uexp" 654
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uasset" 655
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uexp" 656
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 657
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uexp" 658
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uasset" 659
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uexp" 660
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 661
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uexp" 662
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 663
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uexp" 664
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uasset" 665
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uexp" 666
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uasset" 667
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uexp" 668
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uasset" 669
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uexp" 670
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 671
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uexp" 672
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 673
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uexp" 674
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uasset" 675
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uexp" 676
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uasset" 677
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uexp" 678
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uasset" 679
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uexp" 680
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 681
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uexp" 682
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 683
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uexp" 684
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 685
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 686
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 687
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 688
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 689
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uexp" 690
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 691
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uexp" 692
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uasset" 693
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uexp" 694
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 695
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uexp" 696
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 697
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uexp" 698
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 699
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uexp" 700
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uasset" 701
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uexp" 702
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 703
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uexp" 704
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 705
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uexp" 706
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 707
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uexp" 708
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 709
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uexp" 710
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 711
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uexp" 712
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uasset" 713
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uexp" 714
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 715
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 716
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 717
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uexp" 718
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 719
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uexp" 720
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 721
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 722
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 723
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 724
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 725
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 726
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 727
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 728
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 729
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uexp" 730
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 731
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uexp" 732
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/UpdateBeam.uasset" 733
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/UpdateBeam.uexp" 734
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 735
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 736
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 737
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uexp" 738
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 739
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uexp" 740
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 741
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uexp" 742
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/SaturateFloat.uasset" 743
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/SaturateFloat.uexp" 744
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uasset" 745
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uexp" 746
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 747
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uexp" 748
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 749
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uexp" 750
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/VFX_/VFX_Energy/NewNiagaraSystem.uasset" 751
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/VFX_/VFX_Energy/NewNiagaraSystem.uexp" 752
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 753
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Animations/ThirdPersonJump_End.uexp" 754
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 755
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uexp" 756
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Textures/T_Female_N.uasset" 757
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Textures/T_Female_N.ubulk" 758
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Textures/T_Female_N.uexp" 759
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Textures/T_Female_Mask.uasset" 760
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Textures/T_Female_Mask.ubulk" 761
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Textures/T_Female_Mask.uexp" 762
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MI_Female_Body.uasset" 763
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Materials/MI_Female_Body.uexp" 764
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" 765
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uexp" 766
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Materials/Player4MAT.uasset" 767
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Materials/Player4MAT.uexp" 768
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Materials/Player3MAT.uasset" 769
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Materials/Player3MAT.uexp" 770
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Materials/Player2MAT.uasset" 771
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Materials/Player2MAT.uexp" 772
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Materials/Player1MAT.uasset" 773
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Materials/Player1MAT.uexp" 774
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Basic_Wall.uasset" 775
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Basic_Wall.uexp" 776
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 777
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/Wall_Window_400x400.uexp" 778
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 779
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/Wall_Door_400x400.uexp" 780
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/Wall_500x500.uasset" 781
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/Wall_500x500.uexp" 782
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/Wall_400x400.uasset" 783
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/Wall_400x400.uexp" 784
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/Wall_400x300.uasset" 785
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/Wall_400x300.uexp" 786
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/Pillar_50x500.uasset" 787
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/Pillar_50x500.uexp" 788
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Steam01.uasset" 789
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Steam01.ubulk" 790
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Steam01.uexp" 791
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Starter_Wind06.uasset" 792
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Starter_Wind06.ubulk" 793
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Starter_Wind06.uexp" 794
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Starter_Wind05.uasset" 795
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Starter_Wind05.ubulk" 796
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Starter_Wind05.uexp" 797
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Starter_Music01.uasset" 798
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Starter_Music01.ubulk" 799
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Starter_Music01.uexp" 800
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Starter_Birds01.uasset" 801
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Starter_Birds01.ubulk" 802
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Starter_Birds01.uexp" 803
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Smoke01.uasset" 804
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Smoke01.ubulk" 805
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Smoke01.uexp" 806
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Light02_Cue.uasset" 807
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Light02_Cue.uexp" 808
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Light02.uasset" 809
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Light02.ubulk" 810
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Light02.uexp" 811
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Light01_Cue.uasset" 812
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Light01_Cue.uexp" 813
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Light01.uasset" 814
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Light01.ubulk" 815
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Light01.uexp" 816
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Fire_Sparks01.uasset" 817
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Fire_Sparks01.ubulk" 818
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Fire_Sparks01.uexp" 819
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Fire01.uasset" 820
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Fire01.ubulk" 821
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Fire01.uexp" 822
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Explosion02.uasset" 823
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Explosion02.ubulk" 824
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Explosion02.uexp" 825
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Explosion01.uasset" 826
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Explosion01.ubulk" 827
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Explosion01.uexp" 828
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Collapse02.uasset" 829
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Collapse02.ubulk" 830
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Collapse02.uexp" 831
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Collapse01.uasset" 832
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Collapse01.ubulk" 833
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Collapse01.uexp" 834
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 835
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 836
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 837
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 838
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 839
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 840
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 841
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 842
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Burst_M.uasset" 843
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Burst_M.ubulk" 844
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Burst_M.uexp" 845
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/Materials/M_Burst.uasset" 846
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/Materials/M_Burst.uexp" 847
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 848
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/Materials/m_flare_01.uexp" 849
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 850
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Explosion_SubUV.ubulk" 851
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Explosion_SubUV.uexp" 852
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 853
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 854
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 855
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 856
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 857
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/Materials/M_radial_ramp.uexp" 858
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/P_Explosion.uasset" 859
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/P_Explosion.uexp" 860
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Explosion_Cue.uasset" 861
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Explosion_Cue.uexp" 862
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 863
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uexp" 864
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 865
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.ubulk" 866
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uexp" 867
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 868
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uexp" 869
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Basic_Floor.uasset" 870
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Basic_Floor.uexp" 871
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_Stairs.uasset" 872
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_Stairs.uexp" 873
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Shelf_N.uasset" 874
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Shelf_N.ubulk" 875
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Shelf_N.uexp" 876
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Shelf_M.uasset" 877
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Shelf_M.ubulk" 878
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Shelf_M.uexp" 879
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_Shelf.uasset" 880
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_Shelf.uexp" 881
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_Shelf.uasset" 882
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_Shelf.uexp" 883
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 884
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Detail_Rocky_N.ubulk" 885
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Detail_Rocky_N.uexp" 886
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 887
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Basalt_D.ubulk" 888
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Basalt_D.uexp" 889
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_RockMesh_N.uasset" 890
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_RockMesh_N.ubulk" 891
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_RockMesh_N.uexp" 892
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_RockMesh_M.uasset" 893
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_RockMesh_M.ubulk" 894
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_RockMesh_M.uexp" 895
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_Rock.uasset" 896
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_Rock.uexp" 897
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_Rock.uasset" 898
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_Rock.uexp" 899
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 900
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uexp" 901
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 902
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_MaterialSphere.uexp" 903
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 904
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_MatPreviewMesh_02.uexp" 905
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Glass.uasset" 906
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Glass.uexp" 907
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Door_N.uasset" 908
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Door_N.ubulk" 909
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Door_N.uexp" 910
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Door_M.uasset" 911
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Door_M.ubulk" 912
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Door_M.uexp" 913
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_Door.uasset" 914
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_Door.uexp" 915
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_Door.uasset" 916
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_Door.uexp" 917
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Chair_N.uasset" 918
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Chair_N.ubulk" 919
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Chair_N.uexp" 920
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Chair_M.uasset" 921
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Chair_M.ubulk" 922
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Chair_M.uexp" 923
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_Chair.uasset" 924
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_Chair.uexp" 925
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_Couch.uasset" 926
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_Couch.uexp" 927
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Bush_N.uasset" 928
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Bush_N.ubulk" 929
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Bush_N.uexp" 930
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Bush_D.uasset" 931
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Bush_D.ubulk" 932
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Bush_D.uexp" 933
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_Bush.uasset" 934
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_Bush.uexp" 935
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_Bush.uasset" 936
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_Bush.uexp" 937
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 938
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_WideCapsule.uexp" 939
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 940
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Wedge_B.uexp" 941
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 942
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Wedge_A.uexp" 943
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Tube.uasset" 944
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Tube.uexp" 945
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 946
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_TriPyramid.uexp" 947
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 948
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Trim_90_Out.uexp" 949
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 950
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Trim_90_In.uexp" 951
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Trim.uasset" 952
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Trim.uexp" 953
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Torus.uasset" 954
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Torus.uexp" 955
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Plane.uasset" 956
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Plane.uexp" 957
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 958
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Pipe_90.uexp" 959
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 960
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Pipe_180.uexp" 961
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Pipe.uasset" 962
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Pipe.uexp" 963
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 964
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_NarrowCapsule.uexp" 965
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 966
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Cylinder.uexp" 967
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Cone.uasset" 968
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Cone.uexp" 969
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/VFX_/VFX_Decal/VFX_Decal_CircleSkill.uasset" 970
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/VFX_/VFX_Decal/VFX_Decal_CircleSkill.uexp" 971
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/VFX_/VFX_Decal/VFX_Actor_CircleSkill.uasset" 972
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/VFX_/VFX_Decal/VFX_Actor_CircleSkill.uexp" 973
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uasset" 974
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uexp" 975
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 976
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uexp" 977
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/VFX_/VFX_Decal/VFX_Decal_SectorSkill.uasset" 978
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/VFX_/VFX_Decal/VFX_Decal_SectorSkill.uexp" 979
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/VFX_/VFX_Decal/VFX_Actor_SectorSkill.uasset" 980
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/VFX_/VFX_Decal/VFX_Actor_SectorSkill.uexp" 981
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" 982
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uexp" 983
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 984
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 985
+"../../../Engine/Content/Maps/Entry.umap" 986
+"../../../Engine/Content/Maps/Entry.uexp" 987
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 988
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uexp" 989
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 990
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uexp" 991
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 992
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uexp" 993
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.uasset" 994
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.ubulk" 995
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.uexp" 996
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 997
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 998
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 999
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uexp" 1000
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MF_ProcGrid.uasset" 1001
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MF_ProcGrid.uexp" 1002
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uasset" 1003
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uexp" 1004
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid.uasset" 1005
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid.uexp" 1006
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/assets/lambert1.uasset" 1007
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/assets/lambert1.uexp" 1008
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/assets/AztecTestingLevel.uasset" 1009
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/assets/AztecTestingLevel.uexp" 1010
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Maps/BUILD_BlockoutLevel_BuiltData.uasset" 1011
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Maps/BUILD_BlockoutLevel_BuiltData.ubulk" 1012
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Maps/BUILD_BlockoutLevel_BuiltData.uexp" 1013
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1014
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 1015
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 1016
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1017
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 1018
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 1019
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1020
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 1021
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 1022
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1023
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 1024
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1025
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 1026
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1027
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 1028
+"../../../Engine/Content/EngineSky/M_SimpleSkyDome.uasset" 1029
+"../../../Engine/Content/EngineSky/M_SimpleSkyDome.uexp" 1030
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Maps/BUILD_BlockoutLevel.umap" 1031
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Maps/BUILD_BlockoutLevel.uexp" 1032
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Maps/BUILD_MenuLevel.umap" 1033
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Maps/BUILD_MenuLevel.uexp" 1034
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1035
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 1036
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1037
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 1038
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1039
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 1040
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1041
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 1042
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/ThirdPerson/Meshes/RampMaterial.uasset" 1043
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/ThirdPerson/Meshes/RampMaterial.uexp" 1044
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 1045
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uexp" 1046
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Geometry/Meshes/CubeMaterial.uasset" 1047
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Geometry/Meshes/CubeMaterial.uexp" 1048
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Geometry/Meshes/TemplateFloor.uasset" 1049
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Geometry/Meshes/TemplateFloor.uexp" 1050
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 1051
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uexp" 1052
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Geometry/Meshes/1M_Cube.uasset" 1053
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Geometry/Meshes/1M_Cube.uexp" 1054
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 1055
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uexp" 1056
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 1057
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/ThirdPerson/Meshes/Bump_StaticMesh.uexp" 1058
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 1059
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/Geometry/Meshes/1M_Cube_Chamfer.uexp" 1060
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 1061
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uexp" 1062
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Maps/ThirdPersonExampleMap.umap" 1063
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Maps/ThirdPersonExampleMap.uexp" 1064
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Materials/Objective.uasset" 1065
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Materials/Objective.uexp" 1066
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/Enemy/SightCurve.uasset" 1067
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/Enemy/SightCurve.uexp" 1068
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/Enemy/Task_FindRandomLocation.uasset" 1069
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/Enemy/Task_FindRandomLocation.uexp" 1070
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/Enemy/Enemy_BB.uasset" 1071
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/Enemy/Enemy_BB.uexp" 1072
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/Enemy/Enemy_Behavior.uasset" 1073
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/Enemy/Enemy_Behavior.uexp" 1074
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/Enemy/Enemy_AIController.uasset" 1075
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/Enemy/Enemy_AIController.uexp" 1076
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/Enemy/T_EyeLogo.uasset" 1077
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/Enemy/T_EyeLogo.ubulk" 1078
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/Enemy/T_EyeLogo.uexp" 1079
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/Enemy/UI_SightDetection.uasset" 1080
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/Enemy/UI_SightDetection.uexp" 1081
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/EP_Materials/MAT_EnemyColor.uasset" 1082
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/EP_Materials/MAT_EnemyColor.uexp" 1083
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/Enemy/Enemy.uasset" 1084
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/Enemy/Enemy.uexp" 1085
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Materials/M_Solid.uasset" 1086
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Materials/M_Solid.uexp" 1087
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_StandardCornerPlaceHolder_pCube3.uasset" 1088
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_StandardCornerPlaceHolder_pCube3.uexp" 1089
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/LVL_Blockout_1_A/LVL_BlockOut_1_A_BuiltData.uasset" 1090
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/LVL_Blockout_1_A/LVL_BlockOut_1_A_BuiltData.ubulk" 1091
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/LVL_Blockout_1_A/LVL_BlockOut_1_A_BuiltData.uexp" 1092
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset" 1093
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Textures/T_GridChecker_A.ubulk" 1094
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Textures/T_GridChecker_A.uexp" 1095
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset" 1096
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Materials/MF_ProcGrid.uexp" 1097
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset" 1098
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Materials/M_PrototypeGrid.uexp" 1099
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset" 1100
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uexp" 1101
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset" 1102
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_Cylinder.uexp" 1103
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_GateWay_01_A.uasset" 1104
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_GateWay_01_A.uexp" 1105
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_WaterFallBottom.uasset" 1106
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_WaterFallBottom.uexp" 1107
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1108
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 1109
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_Cube.uasset" 1110
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_Cube.uexp" 1111
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Materials/M_FlameTrap.uasset" 1112
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Materials/M_FlameTrap.uexp" 1113
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_CameraDirection.uasset" 1114
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_CameraDirection.uexp" 1115
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_AlterPillar_A.uasset" 1116
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_AlterPillar_A.uexp" 1117
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Materials/Spawn.uasset" 1118
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Materials/Spawn.uexp" 1119
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_StandardWallPlaceHolder.uasset" 1120
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_StandardWallPlaceHolder.uexp" 1121
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_RightDoor_01_A.uasset" 1122
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_RightDoor_01_A.uexp" 1123
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Materials/PlayerNoGo.uasset" 1124
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Materials/PlayerNoGo.uexp" 1125
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Materials/M_Enemy.uasset" 1126
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Materials/M_Enemy.uexp" 1127
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Materials/M_WaterDesignation.uasset" 1128
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Materials/M_WaterDesignation.uexp" 1129
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_LeftDoor_01_A.uasset" 1130
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_LeftDoor_01_A.uexp" 1131
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_StandardSemiWallPlaceHolder_pCube4.uasset" 1132
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/LevelPrototyping/Meshes/SM_StandardSemiWallPlaceHolder_pCube4.uexp" 1133
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/LVL_Blockout_1_A/LVL_BlockOut_1_A.umap" 1134
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/LVL_Blockout_1_A/LVL_BlockOut_1_A.ubulk" 1135
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/EPOC_BP/LVL_Blockout_1_A/LVL_BlockOut_1_A.uexp" 1136
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Frame_M.uasset" 1137
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Frame_M.ubulk" 1138
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Frame_M.uexp" 1139
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Frame_N.uasset" 1140
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Frame_N.ubulk" 1141
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Frame_N.uexp" 1142
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_Frame.uasset" 1143
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_Frame.uexp" 1144
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_DoorFrame.uasset" 1145
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_DoorFrame.uexp" 1146
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_MacroVariation.uasset" 1147
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_MacroVariation.uexp" 1148
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1149
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uexp" 1150
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Lamp_N.uasset" 1151
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Lamp_N.ubulk" 1152
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Lamp_N.uexp" 1153
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Lamp_M.uasset" 1154
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Lamp_M.ubulk" 1155
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Lamp_M.uexp" 1156
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1157
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_Lamp.uexp" 1158
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1159
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_Lamp_Ceiling.uexp" 1160
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1161
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uexp" 1162
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 1163
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uexp" 1164
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1165
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uexp" 1166
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 1167
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/Wall_Door_400x300.uexp" 1168
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 1169
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Pine_D.ubulk" 1170
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Pine_D.uexp" 1171
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 1172
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Pine_N.ubulk" 1173
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Pine_N.uexp" 1174
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 1175
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk" 1176
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Perlin_Noise_M.uexp" 1177
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Wood_Pine.uasset" 1178
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Wood_Pine.uexp" 1179
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1180
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.ubulk" 1181
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uexp" 1182
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1183
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.ubulk" 1184
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uexp" 1185
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1186
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Gradinet_01.ubulk" 1187
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Gradinet_01.uexp" 1188
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1189
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.ubulk" 1190
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uexp" 1191
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1192
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.ubulk" 1193
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uexp" 1194
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1195
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_CobbleStone_Smooth.uexp" 1196
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1197
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Basalt_N.ubulk" 1198
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Basalt_N.uexp" 1199
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1200
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Rock_Basalt.uexp" 1201
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Cube.uasset" 1202
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Cube.uexp" 1203
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1204
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.ubulk" 1205
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uexp" 1206
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1207
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Tiles_D.ubulk" 1208
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Tiles_D.uexp" 1209
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1210
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Tiles_M.ubulk" 1211
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Tiles_M.uexp" 1212
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1213
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Tiles_N.ubulk" 1214
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Tiles_N.uexp" 1215
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1216
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Concrete_Tiles.uexp" 1217
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/MaterialSphere.uasset" 1218
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/MaterialSphere.uexp" 1219
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 1220
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Rust_N.ubulk" 1221
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Rust_N.uexp" 1222
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 1223
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Rust_D.ubulk" 1224
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Rust_D.uexp" 1225
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Metal_Rust.uasset" 1226
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Metal_Rust.uexp" 1227
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1228
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Slate_D.ubulk" 1229
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Slate_D.uexp" 1230
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 1231
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Slate_N.ubulk" 1232
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Slate_N.uexp" 1233
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Rock_Slate.uasset" 1234
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Rock_Slate.uexp" 1235
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1236
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Poured_D.ubulk" 1237
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Poured_D.uexp" 1238
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1239
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Poured_N.ubulk" 1240
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Poured_N.uexp" 1241
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1242
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Concrete_Poured.uexp" 1243
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1244
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.ubulk" 1245
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uexp" 1246
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1247
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.ubulk" 1248
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uexp" 1249
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1250
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.ubulk" 1251
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uexp" 1252
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1253
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uexp" 1254
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 1255
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.ubulk" 1256
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uexp" 1257
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 1258
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.ubulk" 1259
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uexp" 1260
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 1261
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Tech_Hex_Tile.uexp" 1262
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 1263
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uexp" 1264
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 1265
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.ubulk" 1266
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uexp" 1267
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 1268
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.ubulk" 1269
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uexp" 1270
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 1271
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.ubulk" 1272
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uexp" 1273
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 1274
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uexp" 1275
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1276
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Ground_Gravel_N.ubulk" 1277
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Ground_Gravel_N.uexp" 1278
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1279
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Ground_Gravel_D.ubulk" 1280
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Ground_Gravel_D.uexp" 1281
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1282
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Ground_Gravel.uexp" 1283
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Steam01_Cue.uasset" 1284
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Steam01_Cue.uexp" 1285
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1286
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/P_Steam_Lit.uexp" 1287
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1288
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uexp" 1289
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1290
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Fire_Sparks01_Cue.uexp" 1291
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Spark_Core.uasset" 1292
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Spark_Core.ubulk" 1293
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Spark_Core.uexp" 1294
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1295
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/Materials/M_Spark.uexp" 1296
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1297
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uexp" 1298
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/P_Sparks.uasset" 1299
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/P_Sparks.uexp" 1300
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1301
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uexp" 1302
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Water_N.uasset" 1303
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Water_N.ubulk" 1304
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Water_N.uexp" 1305
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Water_Lake.uasset" 1306
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Water_Lake.uexp" 1307
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/Wall_400x200.uasset" 1308
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/Wall_400x200.uexp" 1309
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 1310
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Checker_Noise_M.ubulk" 1311
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Checker_Noise_M.uexp" 1312
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 1313
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Tech_Dot_M.ubulk" 1314
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Tech_Dot_M.uexp" 1315
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 1316
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Tech_Dot_N.ubulk" 1317
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Tech_Dot_N.uexp" 1318
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 1319
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Single_Tile_N.ubulk" 1320
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Single_Tile_N.uexp" 1321
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1322
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Tech_Checker_Dot.uexp" 1323
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/Floor_400x400.uasset" 1324
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/Floor_400x400.uexp" 1325
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1326
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Gold_N.ubulk" 1327
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Gold_N.uexp" 1328
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1329
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.ubulk" 1330
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uexp" 1331
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1332
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Rock_Marble_Polished.uexp" 1333
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_GlassWindow.uasset" 1334
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_GlassWindow.uexp" 1335
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1336
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Grime_D.ubulk" 1337
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Grime_D.uexp" 1338
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1339
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Concrete_Grime.uexp" 1340
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1341
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Ceramic_Tile_M.ubulk" 1342
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Ceramic_Tile_M.uexp" 1343
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1344
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Ceramic_Tile_N.ubulk" 1345
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Ceramic_Tile_N.uexp" 1346
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1347
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uexp" 1348
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1349
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Sandstone_N.ubulk" 1350
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Sandstone_N.uexp" 1351
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1352
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Sandstone_D.ubulk" 1353
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Rock_Sandstone_D.uexp" 1354
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1355
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Rock_Sandstone.uexp" 1356
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 1357
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Walnut_N.ubulk" 1358
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Walnut_N.uexp" 1359
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 1360
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Walnut_D.ubulk" 1361
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Walnut_D.uexp" 1362
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 1363
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Wood_Walnut.uexp" 1364
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Collapse_Cue.uasset" 1365
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Collapse_Cue.uexp" 1366
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1367
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.ubulk" 1368
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uexp" 1369
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1370
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.ubulk" 1371
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uexp" 1372
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1373
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Brick_Cut_Stone.uexp" 1374
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 1375
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Dust_Particle_D.ubulk" 1376
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Dust_Particle_D.uexp" 1377
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 1378
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/Materials/M_Dust_Particle.uexp" 1379
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 1380
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/P_Ambient_Dust.uexp" 1381
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_WindowFrame.uasset" 1382
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_WindowFrame.uexp" 1383
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1384
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Copper_D.ubulk" 1385
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Copper_D.uexp" 1386
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1387
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Metal_Copper.uexp" 1388
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Water_M.uasset" 1389
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Water_M.ubulk" 1390
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Water_M.uexp" 1391
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Water_Ocean.uasset" 1392
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Water_Ocean.uexp" 1393
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1394
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.ubulk" 1395
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uexp" 1396
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1397
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.ubulk" 1398
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uexp" 1399
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1400
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.ubulk" 1401
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uexp" 1402
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1403
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_CobbleStone_Pebble.uexp" 1404
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1405
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_Old_N.ubulk" 1406
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uexp" 1407
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1408
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_Old_D.ubulk" 1409
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uexp" 1410
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1411
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Brick_Clay_Old.uexp" 1412
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 1413
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Steel_D.ubulk" 1414
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Steel_D.uexp" 1415
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1416
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Steel_N.ubulk" 1417
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Steel_N.uexp" 1418
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1419
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Metal_Steel.uexp" 1420
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 1421
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uexp" 1422
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1423
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_Lamp_Wall.uexp" 1424
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1425
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Blueprint_WallSconce.uexp" 1426
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 1427
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Tech_Panel_N.ubulk" 1428
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Tech_Panel_N.uexp" 1429
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 1430
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Tech_Panel_M.ubulk" 1431
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Tech_Panel_M.uexp" 1432
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Tech_Panel.uasset" 1433
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Tech_Panel.uexp" 1434
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 1435
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uexp" 1436
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_PillarFrame.uasset" 1437
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_PillarFrame.uexp" 1438
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_TableRound_N.uasset" 1439
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_TableRound_N.ubulk" 1440
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_TableRound_N.uexp" 1441
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_TableRound_M.uasset" 1442
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_TableRound_M.ubulk" 1443
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_TableRound_M.uexp" 1444
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1445
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_TableRound.uexp" 1446
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_TableRound.uasset" 1447
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_TableRound.uexp" 1448
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1449
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Fire_Tiled_D.ubulk" 1450
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Fire_Tiled_D.uexp" 1451
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1452
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Fire_SubUV.ubulk" 1453
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Fire_SubUV.uexp" 1454
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1455
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uexp" 1456
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1457
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uexp" 1458
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/P_Fire.uasset" 1459
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/P_Fire.uexp" 1460
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Fire01_Cue.uasset" 1461
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Fire01_Cue.uexp" 1462
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1463
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uexp" 1464
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 1465
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Oak_N.ubulk" 1466
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Oak_N.uexp" 1467
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 1468
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Oak_D.ubulk" 1469
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Wood_Oak_D.uexp" 1470
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Wood_Oak.uasset" 1471
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Wood_Oak.uexp" 1472
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 1473
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/Wall_Window_400x300.uexp" 1474
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1475
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.ubulk" 1476
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uexp" 1477
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1478
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.ubulk" 1479
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uexp" 1480
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1481
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.ubulk" 1482
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uexp" 1483
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1484
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uexp" 1485
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1486
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Smoke01_Cue.uexp" 1487
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/P_Smoke.uasset" 1488
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Particles/P_Smoke.uexp" 1489
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1490
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uexp" 1491
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1492
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Rough_N.ubulk" 1493
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uexp" 1494
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1495
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Rough_D.ubulk" 1496
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uexp" 1497
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1498
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_CobbleStone_Rough.uexp" 1499
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Statue_M.uasset" 1500
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Statue_M.ubulk" 1501
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Statue_M.uexp" 1502
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Statue_N.uasset" 1503
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Statue_N.ubulk" 1504
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Statue_N.uexp" 1505
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_Statue.uasset" 1506
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_Statue.uexp" 1507
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1508
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/Materials/M_StatueGlass.uexp" 1509
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_Statue.uasset" 1510
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_Statue.uexp" 1511
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1512
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_ground_Moss_D.ubulk" 1513
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_ground_Moss_D.uexp" 1514
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 1515
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Ground_Moss_N.ubulk" 1516
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Ground_Moss_N.uexp" 1517
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Ground_Moss.uasset" 1518
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Ground_Moss.uexp" 1519
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_PillarFrame300.uasset" 1520
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_PillarFrame300.uexp" 1521
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1522
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Metal_Chrome.uexp" 1523
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1524
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Ground_Grass_D.ubulk" 1525
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Ground_Grass_D.uexp" 1526
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1527
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Ground_Grass_N.ubulk" 1528
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Ground_Grass_N.uexp" 1529
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1530
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Ground_Grass.uexp" 1531
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1532
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Gold_D.ubulk" 1533
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Gold_D.uexp" 1534
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1535
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Metal_Gold.uexp" 1536
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1537
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Starter_Background_Cue.uexp" 1538
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1539
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Maps/StarterMap_BuiltData.ubulk" 1540
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Maps/StarterMap_BuiltData.uexp" 1541
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_CornerFrame.uasset" 1542
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_CornerFrame.uexp" 1543
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Sphere.uasset" 1544
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_Sphere.uexp" 1545
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 1546
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Audio/Starter_Music_Cue.uexp" 1547
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 1548
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Shapes/Shape_QuadPyramid.uexp" 1549
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1550
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_New_D.ubulk" 1551
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_New_D.uexp" 1552
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1553
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_New_M.uexp" 1554
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1555
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Brick_Clay_New_N.uexp" 1556
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1557
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Brick_Clay_New.uexp" 1558
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1559
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Aluminum_D.ubulk" 1560
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Metal_Aluminum_D.uexp" 1561
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1562
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uexp" 1563
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_Chair.uasset" 1564
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Props/SM_Chair.uexp" 1565
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1566
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Panels_D.ubulk" 1567
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Panels_D.uexp" 1568
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1569
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Panels_N.ubulk" 1570
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Textures/T_Concrete_Panels_N.uexp" 1571
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1572
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_Concrete_Panels.uexp" 1573
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Maps/StarterMap.umap" 1574
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Maps/StarterMap.uexp" 1575
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1576
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Maps/Minimal_Default_BuiltData.ubulk" 1577
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Maps/Minimal_Default_BuiltData.uexp" 1578
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Maps/Minimal_Default.umap" 1579
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Maps/Minimal_Default.uexp" 1580
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 1581
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.ubulk" 1582
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uexp" 1583
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_AssetPlatform.uasset" 1584
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Materials/M_AssetPlatform.uexp" 1585
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 1586
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Architecture/SM_AssetPlatform.uexp" 1587
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 1588
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 1589
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1590
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uexp" 1591
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1592
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uexp" 1593
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1594
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uexp" 1595
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1596
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uexp" 1597
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1598
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uexp" 1599
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1600
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uexp" 1601
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1602
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Assets/SM_Arrows.uexp" 1603
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1604
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uexp" 1605
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/CheckerPattern.uasset" 1606
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/CheckerPattern.uexp" 1607
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 1608
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uexp" 1609
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 1610
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uexp" 1611
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 1612
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uexp" 1613
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 1614
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uexp" 1615
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1616
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/Assets/Skybox.uexp" 1617
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1618
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Blueprints/BP_LightStudio.uexp" 1619
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1620
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uexp" 1621
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1622
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uexp" 1623
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1624
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uexp" 1625
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1626
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uexp" 1627
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1628
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.ubulk" 1629
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uexp" 1630
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1631
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uexp" 1632
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1633
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uexp" 1634
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Maps/Advanced_Lighting.umap" 1635
+"D:/ITGM 405/BUILD_EPOCHRYPHA/Content/StarterContent/Maps/Advanced_Lighting.uexp" 1636
