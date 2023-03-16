@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f92ed636-8dde-4c6a-b272-ba0f3e646d0a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Content/EPOC_BP/EPOC_CONTENT/Blueprints/Hitboxes/BP_EnemyMeleeHitBox.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/EPOC_BP/EPOC_CONTENT/Blueprints/Hitboxes/BP_EnemyMeleeHitBox.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/EPOC_BP/EPOC_CONTENT/EPOCH_Animations/AnimBP_Brute.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/EPOC_BP/EPOC_CONTENT/EPOCH_Animations/AnimBP_Brute.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/EPOC_BP/EPOC_CONTENT/EPOCH_Animations/AnimBP_Caster.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/EPOC_BP/EPOC_CONTENT/EPOCH_Animations/AnimBP_Caster.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/EPOC_BP/EPOC_CONTENT/EPOCH_Animations/AnimBP_Ranger.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/EPOC_BP/EPOC_CONTENT/EPOCH_Animations/AnimBP_Ranger.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/AI_Enemy_Controller.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/AI_Enemy_Controller.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/BT_Enemy.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/BT_Enemy.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/MeleeEnemy/AI_Melee.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/MeleeEnemy/AI_Melee.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/MeleeEnemy/BP_Enemy_Melee.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/MeleeEnemy/BP_Enemy_Melee.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/SupportEnemy/AI_Support.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/SupportEnemy/AI_Support.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/SupportEnemy/BB_Support.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/SupportEnemy/BB_Support.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/SupportEnemy/BP_Enemy_Support.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/SupportEnemy/BP_Enemy_Support.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/SupportEnemy/BT_Support.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/SupportEnemy/BT_Support.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/SupportEnemy/Tasks/Task_BuffAlly.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/SupportEnemy/Tasks/Task_BuffAlly.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/SupportEnemy/Tasks/Task_ClearValue.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/SupportEnemy/Tasks/Task_ClearValue.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/Task_DealMeleeDamage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/Task_DealMeleeDamage.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/Task_ShootIceBreath.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/EPOC_BP/Enemy/Task_ShootIceBreath.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/Main_Levels/LVL_Main_1/LVL_1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Main_Levels/LVL_Main_1/LVL_1.umap" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2N6XORUSItA7lSYEmJZ6gTYnfX1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f92ed636-8dde-4c6a-b272-ba0f3e646d0a" name="Default Changelist" comment="" />
+      <created>1678985473305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678985473305</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1678985476200">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1678985476200" />
+  </component>
+</project>
