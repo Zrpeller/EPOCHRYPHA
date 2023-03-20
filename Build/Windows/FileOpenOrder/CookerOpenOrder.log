@@ -3390,15 +3390,15 @@
 "C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/DamageTypes/DMG_FireDamage.uexp" 3389
 "C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/DamageTypes/DMG_ColdDamage.uasset" 3390
 "C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/Blueprints/DamageTypes/DMG_ColdDamage.uexp" 3391
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/Task_TestDamage.uasset" 3392
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/Task_TestDamage.uexp" 3393
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/Task_DealPlayerDamage.uasset" 3394
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/Task_DealPlayerDamage.uexp" 3395
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/T_EyeLogo.ubulk" 3396
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/T_EyeLogo.uasset" 3397
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/T_EyeLogo.uexp" 3398
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/UI_SightDetection.uasset" 3399
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/UI_SightDetection.uexp" 3400
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/T_EyeLogo.ubulk" 3392
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/T_EyeLogo.uasset" 3393
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/T_EyeLogo.uexp" 3394
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/UI_SightDetection.uasset" 3395
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/UI_SightDetection.uexp" 3396
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/Task_TestDamage.uasset" 3397
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/Task_TestDamage.uexp" 3398
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/Task_DealPlayerDamage.uasset" 3399
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/Task_DealPlayerDamage.uexp" 3400
 "C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/Enemy_healthBar.uasset" 3401
 "C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/Enemy_healthBar.uexp" 3402
 "C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/Enemy_BB.uasset" 3403
@@ -4019,14 +4019,14 @@
 "../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp" 4018
 "../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 4019
 "../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp" 4020
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 4021
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 4022
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 4023
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 4024
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 4025
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 4026
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 4027
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp" 4028
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 4021
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp" 4022
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 4023
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 4024
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 4025
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 4026
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 4027
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 4028
 "../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset" 4029
 "../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uexp" 4030
 "../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 4031
@@ -4527,37 +4527,37 @@
 "C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/LevelPrototyping/Textures/Bricks/T_Horizontal_Brick_1.uexp" 4526
 "C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/LevelPrototyping/Materials/Structure_Materials/M_Small_Brick_Horizontal.uasset" 4527
 "C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/LevelPrototyping/Materials/Structure_Materials/M_Small_Brick_Horizontal.uexp" 4528
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Animations/Ranger_idle_Retargeted.uasset" 4529
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Animations/Ranger_idle_Retargeted.uexp" 4530
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Animations/Animation_EnemyRanger_Arc.uasset" 4531
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Animations/Animation_EnemyRanger_Arc.uexp" 4532
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Animations/Ranger_Death_Retargeted.uasset" 4533
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Animations/Ranger_Death_Retargeted.uexp" 4534
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Animations/Animation_EnemyRanger_BasicAttack.uasset" 4535
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Animations/Animation_EnemyRanger_BasicAttack.uexp" 4536
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/EPOCH_Animations/AnimBP_Ranger.uasset" 4537
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/EPOCH_Animations/AnimBP_Ranger.uexp" 4538
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Meshes/Model_AtlatlHandle_EnemyRangerWeapon_Handle_BaseColor.ubulk" 4539
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Meshes/Model_AtlatlHandle_EnemyRangerWeapon_Handle_BaseColor.uasset" 4540
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Meshes/Model_AtlatlHandle_EnemyRangerWeapon_Handle_BaseColor.uexp" 4541
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Meshes/M_ranger_atlatlHandle.uasset" 4542
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Meshes/M_ranger_atlatlHandle.uexp" 4543
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Meshes/Model_AtlatlHandle_EnemyRangerWeapon.ubulk" 4544
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Meshes/Model_AtlatlHandle_EnemyRangerWeapon.uasset" 4545
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Meshes/Model_AtlatlHandle_EnemyRangerWeapon.uexp" 4546
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Textures/lambert1_Base_color.ubulk" 4547
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Textures/lambert1_Base_color.uasset" 4548
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Textures/lambert1_Base_color.uexp" 4549
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Textures/ranger_geo_lambert2_BaseColor.ubulk" 4550
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Textures/ranger_geo_lambert2_BaseColor.uasset" 4551
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Textures/ranger_geo_lambert2_BaseColor.uexp" 4552
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Textures/lambert5.uasset" 4553
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Textures/lambert5.uexp" 4554
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/RangedEnemy/BP_Enemy_Ranged.uasset" 4555
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/RangedEnemy/BP_Enemy_Ranged.uexp" 4556
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/LevelPrototyping/Meshes/Cover_And_Props/SM_Atl_Symbol.ubulk" 4557
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/LevelPrototyping/Meshes/Cover_And_Props/SM_Atl_Symbol.uasset" 4558
-"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/LevelPrototyping/Meshes/Cover_And_Props/SM_Atl_Symbol.uexp" 4559
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/LevelPrototyping/Meshes/Cover_And_Props/SM_Atl_Symbol.ubulk" 4529
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/LevelPrototyping/Meshes/Cover_And_Props/SM_Atl_Symbol.uasset" 4530
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/LevelPrototyping/Meshes/Cover_And_Props/SM_Atl_Symbol.uexp" 4531
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Animations/Ranger_idle_Retargeted.uasset" 4532
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Animations/Ranger_idle_Retargeted.uexp" 4533
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Animations/Animation_EnemyRanger_Arc.uasset" 4534
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Animations/Animation_EnemyRanger_Arc.uexp" 4535
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Animations/Ranger_Death_Retargeted.uasset" 4536
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Animations/Ranger_Death_Retargeted.uexp" 4537
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Animations/Animation_EnemyRanger_BasicAttack.uasset" 4538
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Animations/Animation_EnemyRanger_BasicAttack.uexp" 4539
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/EPOCH_Animations/AnimBP_Ranger.uasset" 4540
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/EPOC_CONTENT/EPOCH_Animations/AnimBP_Ranger.uexp" 4541
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Meshes/Model_AtlatlHandle_EnemyRangerWeapon_Handle_BaseColor.ubulk" 4542
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Meshes/Model_AtlatlHandle_EnemyRangerWeapon_Handle_BaseColor.uasset" 4543
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Meshes/Model_AtlatlHandle_EnemyRangerWeapon_Handle_BaseColor.uexp" 4544
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Meshes/M_ranger_atlatlHandle.uasset" 4545
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Meshes/M_ranger_atlatlHandle.uexp" 4546
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Meshes/Model_AtlatlHandle_EnemyRangerWeapon.ubulk" 4547
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Meshes/Model_AtlatlHandle_EnemyRangerWeapon.uasset" 4548
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Meshes/Model_AtlatlHandle_EnemyRangerWeapon.uexp" 4549
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Textures/lambert1_Base_color.ubulk" 4550
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Textures/lambert1_Base_color.uasset" 4551
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Textures/lambert1_Base_color.uexp" 4552
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Textures/ranger_geo_lambert2_BaseColor.ubulk" 4553
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Textures/ranger_geo_lambert2_BaseColor.uasset" 4554
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Textures/ranger_geo_lambert2_BaseColor.uexp" 4555
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Textures/lambert5.uasset" 4556
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/Character_Rigs/Ranger_Enemy/Textures/lambert5.uexp" 4557
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/RangedEnemy/BP_Enemy_Ranged.uasset" 4558
+"C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/EPOC_BP/Enemy/RangedEnemy/BP_Enemy_Ranged.uexp" 4559
 "C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/LevelPrototyping/Materials/Objective_Highlight/M_Blue_Emissive1.uasset" 4560
 "C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/LevelPrototyping/Materials/Objective_Highlight/M_Blue_Emissive1.uexp" 4561
 "C:/Users/daraj/Documents/My Games/CORE/Saved/Maps/EPOCHRYPHA/Content/TestMap/Assets/SM_Enterence.ubulk" 4562
